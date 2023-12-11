@@ -1,0 +1,6 @@
+[submodule "api-rest-phalcon"]
+	path = api-rest-phalcon
+	url = https://github.com/peacevan/api-rest-phalcon.git
+[submodule "front-angular-to-phalcon"]
+	path = front-angular-to-phalcon
+	url = https://github.com/peacevan/front-angular-to-phalcon.git
